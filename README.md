@@ -60,7 +60,7 @@ Escribe el binario del firmware de MicroPython en la memoria flash del ESP32C3:
 
 # Escribe el código que se ejecutará en el chip del microcontrolador
 
-## Version completa del código esta incluida en este repo como **main.py**
+## [Version completa del código](https://raw.githubusercontent.com/jrgdiaz/Weather-Micropython-HackConRD2025/refs/heads/main/main.py)
 
 En tu editor de código favorito, comienza importando las bibliotecas necesarias para ejecutar el proyecto:
 
