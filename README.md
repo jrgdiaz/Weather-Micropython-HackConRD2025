@@ -1,3 +1,8 @@
+---
+title: Programación de un mapa meteorológico LED con MicroPython en un ESP32C3
+date: Feb 28, 2025
+author: Jorge Diaz
+---
 
 # Programación de un mapa meteorológico LED con MicroPython en un ESP32C3
 
