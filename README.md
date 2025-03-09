@@ -200,6 +200,15 @@ async def main():
 
 asyncio.run(main())
 ```
+
+# Pasos para obtener un API key de OpenWeatherMap API
+
+* Crear una cuenta 
+
+* Iniciar Sesión
+
+* Generar un API key nuevo
+
 # Cargar código al ESP32C3
 
 Primero nos conectamos al board:
