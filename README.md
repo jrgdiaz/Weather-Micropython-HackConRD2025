@@ -45,7 +45,7 @@ Después de descargar el binario, puedes proceder a conectar el microcontrolador
 
 Proceda a borrar el flash con:
 
-```esptool.py --port /dev/tty.usbmodem1421201 borrar_flash```
+```esptool.py --port /dev/tty.usbmodem1421201 erase_flash```
 
 Escribe el binario del firmware de MicroPython en la memoria flash del ESP32C3:
 
