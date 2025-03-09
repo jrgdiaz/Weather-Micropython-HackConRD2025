@@ -202,6 +202,12 @@ asyncio.run(main())
 ```
 # Cargar código al ESP32C3
 
+Primero nos conectamos al board:
+
+```
+/Library/Frameworks/Python.framework/Versions/3.11/bin/rshell -p /dev/tty.usbmodem1431401 -b 115200
+```
+
 Para cargar y correr código en MicroPython utilizamos dos scripts boot.py y main.py
 
 ```
