@@ -44,22 +44,6 @@ Primero, descarga e instala [esptool](https://github.com/espressif/esptool) con 
 
 ```python3 -m pip install esptool```
 
-Antes de ejecutar nuestro código, necesitamos instalar el binario del firmware de MicroPython en el microcontrolador.  Puedes descargarlo desde el siguiente enlace:
-
-https://micropython.org/resources/firmware/ESP32_GENERIC_C3-20241129-v1.24.1.bin
-
-Después de descargar el binario, puedes proceder a conectar el microcontrolador a tu computadora e identificar el puerto serie con el siguiente comando:
-
-```ls /dev/tty*```
-
-Proceda a borrar el flash con:
-
-```esptool.py --port /dev/tty.usbmodem1421201 erase_flash```
-
-Escribe el binario del firmware de MicroPython en la memoria flash del ESP32C3:
-
-```esptool.py --chip esp32c3 --port /dev/tty.usbmodem1421201 write_flash -z 0x00 ESP32_GENERIC_C3-20241129-v1.24.1.bin```
-
 # Escribe el código que se ejecutará en el chip del microcontrolador
 
 ## [Version completa del código](https://raw.githubusercontent.com/jrgdiaz/Weather-Micropython-HackConRD2025/refs/heads/main/main.py)
