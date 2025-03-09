@@ -6,7 +6,7 @@ author: Jorge Diaz
 
 # Si estas en HackConRD 2025, y te gustó este proyecto (o el <a href="http://104.131.81.97" style="align: center;"> CTF</a>) considera dejarme una ⭐ en este repositorio.
 
-# O si quieres revisitar el badge pasado https://github.com/jrgdiaz/HHW_HackConRD2024 
+# O sí quieres revisitar el badge pasado: https://github.com/jrgdiaz/HHW_HackConRD2024 
 
 # Programación de un mapa meteorológico LED con MicroPython en un ESP32C3
 
@@ -43,6 +43,18 @@ Sin más demora, comencemos a implementar el proyecto.
 Primero, descarga e instala [esptool](https://github.com/espressif/esptool) con PIP:
 
 ```python3 -m pip install esptool```
+
+Luego, instala rshell puedes conocer mas sobre el proyecto aquí: https://pypi.org/project/rshell/
+
+```
+python3 -m pip install rshell
+```
+
+Conecta tu badge con un cable USB-C e inicia una conexión serial:
+
+```
+/Library/Frameworks/Python.framework/Versions/3.11/bin/rshell -p /dev/tty.usbmodem1431401 -b 115200
+```
 
 # Escribe el código que se ejecutará en el chip del microcontrolador
 
