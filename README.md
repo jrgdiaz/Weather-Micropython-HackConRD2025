@@ -58,7 +58,7 @@ Escribe el binario del firmware de MicroPython en la memoria flash del ESP32C3:
 
 ```esptool.py --chip esp32c3 --port /dev/tty.usbmodem1421201 write_flash -z 0x00 ESP32_GENERIC_C3-20241129-v1.24.1.bin```
 
-# Escribe el código que se ejecutará en el chip del microcontrolador
+# Escribe el código que se ejecutará en el chip del microcontrolador, version completa esta incluida en este repo como **main.py**
 
 En tu editor de código favorito, comienza importando las bibliotecas necesarias para ejecutar el proyecto:
 
