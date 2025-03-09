@@ -60,7 +60,7 @@ Conecta tu badge con un cable USB-C e inicia una conexión serial:
 
 ## [Version completa del código](https://raw.githubusercontent.com/jrgdiaz/Weather-Micropython-HackConRD2025/refs/heads/main/main.py)
 
-En tu editor de código favorito, comienza importando las bibliotecas necesarias para ejecutar el proyecto:
+En tu editor de código favorito, comienza importando las librerias necesarias para ejecutar el proyecto:
 
 ```
 import machine, neopixel
