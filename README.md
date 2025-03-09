@@ -200,6 +200,30 @@ async def main():
 
 asyncio.run(main())
 ```
+# Cargar código al ESP32C3
+
+Para cargar y correr código en MicroPython utilizamos dos scripts boot.py y main.py
+
+```
+⚠️ No debes tocar el boot.py 📢
+```
+boot.py se ejecuta una vez MicroPython ha cargado en el board, ESTE NO DEBE SER modificado.
+
+```
+✅ modificamos en main.py
+```
+Cargamos nuestro codigo como main.py copiandolo al board.
+
+```
+cp main.py /pyboard/main.py
+```
+
+Finalmente, corremos nuestro codigo:
+
+```
+repl
+import main
+```
 
 # Visualizando datos meteorológicos
 
