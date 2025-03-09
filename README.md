@@ -218,13 +218,13 @@ boot.py se ejecuta una vez MicroPython ha cargado en el board, ESTE NO DEBE SER 
 ```
 ✅ modificamos en main.py
 ```
-Cargamos nuestro codigo como main.py copiandolo al board.
+Cargamos nuestro código como main.py copiandolo al board.
 
 ```
 cp main.py /pyboard/main.py
 ```
 
-Finalmente, corremos nuestro codigo:
+Finalmente, corremos nuestro código:
 
 ```
 repl
