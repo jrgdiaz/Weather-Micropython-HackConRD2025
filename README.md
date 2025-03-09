@@ -72,7 +72,7 @@ Y finalmente, nuestra función principal de entrada main.py.
 
 Para representar las condiciones meteorológicas, estamos utilizando una matriz de 31 LED aRGB, con cada LED correspondiente a una de las 31 provincias.  Los LED cambiarán de color según las condiciones meteorológicas:
 
-<p align="center"><img src="https://verpent.co/images/jpg/IMG_2638.jpg"/> Contexto: <p align="center"><img src="https://verpent.co/images/jpg/IMG_2638.jpg"/> <br><br> Diseño de PCB por <a href=""><br><br> Diseño de PCB por <a href=""> Emeraldo Ramos</a></p>
+<p align="center"><img src="https://verpent.co/images/jpg/IMG_2638.jpg"/><br><br> Diseño de PCB por <a href=""> Emeraldo Ramos</a></p>
   
 - **Rojo**: Temperaturas altas
 - **Amarillo**: Buen tiempo
