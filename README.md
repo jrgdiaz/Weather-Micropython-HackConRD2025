@@ -213,3 +213,9 @@ Para representar las condiciones meteorológicas, estamos utilizando una matriz 
 - **Azul**: Lluvia intensa
 
 Esto proporciona una manera intuitiva de visualizar rápidamente los patrones climáticos en todo el país.
+
+You can find full code as well as English translation in the following link:
+
+Leave a ⭐ if you like the project:
+
+https://verpent.co/posts/esp32c3-iot-dev-getting-started
