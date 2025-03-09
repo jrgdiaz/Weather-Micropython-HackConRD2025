@@ -209,7 +209,7 @@ asyncio.run(main())
 
 * Generar un API key nuevo
 
-Sustituir el key y las credenciales de Wi-Fi en el código y con eso estamos listos para proceder a cargar el código al board
+Sustituir el key y las credenciales de Wi-Fi en el código y con eso, estamos listos para proceder a cargar el código al board.
 
 # Cargar código al ESP32C3
 
