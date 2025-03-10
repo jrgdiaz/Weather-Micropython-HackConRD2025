@@ -27,7 +27,7 @@ En esta publicación, demostraremos cómo programar un mapa del clima con LED ut
 
 <p align=center>Foto de <a href="https://www.instagram.com/fotosmalasperomias">Jini</a></p>
 
-<a href="http://104.131.81.97" style="align: center;"> Servidor de CTF IoT de HackConRD 2025 Badge
+<p align=center><a href="http://104.131.81.97" style="align: center;"> Servidor de CTF IoT de HackConRD 2025 Badge</a></p>
 
 # Comenzando con el desarrollo de IoT y MicroPython 
 
