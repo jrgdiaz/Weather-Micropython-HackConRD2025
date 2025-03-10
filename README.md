@@ -12,7 +12,7 @@ author: Jorge Diaz
 
 # <p align=center>considera dejar una ⭐ ahi también.</p>
 
-# <p align=center>Haz creado algo tú con el badge de HackConRD2025 y deseas compartirlo? Tenemos un lugar para esas contribuciones -> <a href="https://github.com/jrgdiaz/Weather-Micropython-HackConRD2025/tree/main/contributions">Contribuciones </a></p>
+# <p align=center>Haz creado algo tú con el badge de HackConRD2025 y deseas compartirlo? Tenemos un lugar para esas ideas: <a href="https://github.com/jrgdiaz/Weather-Micropython-HackConRD2025/tree/main/contributions">Contribuciones</a></p>
 
 # <p align=center>You can find an English translation for this tutorial in the following link</p>
 
