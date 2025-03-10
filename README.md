@@ -64,7 +64,9 @@ Conecta tu badge con un cable USB-C e inicia una conexión serial:
 
 
 ```
-⚠️ El puerto serial puede aparecer con diferentes nombres dependiendo del sistema operativo en Windows, es COM4 por ejemplo ⚠️
+⚠️ El puerto serial puede aparecer con diferentes nombres dependiendo del sistema operativo en Windows, es COM4 por ejemplo. ⚠️
+⚠️ 🔊 Si identificas una manera de borrar la FLASH. Pués, te recomiendo que no lo hagas! 🔊⚠️
+
 ```
 
 
