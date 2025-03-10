@@ -36,7 +36,7 @@ Además, este proyecto servirá como el badge para [HackConRD 2025](https://hack
 
 # Hardware y Software
 
-El ESP32C3 es un microcontrolador potente y rentable con Wi-Fi y Bluetooth integrados, lo que lo convierte en una excelente opción para proyectos de IoT.  Una aplicación clave del IoT es el monitoreo del clima en tiempo real, donde los microcontroladores recopilan datos ambientales de sensores o, en nuestro caso, de fuentes de Internet.
+El ESP32C3 es un microcontrolador potente y rentable con Wi-Fi y <a href="https://verpent.co/posts/apple-ble-spoof"> integrados, lo que lo convierte en una excelente opción para proyectos de IoT.  Una aplicación clave del IoT es el monitoreo del clima en tiempo real, donde los microcontroladores recopilan datos ambientales de sensores o, en nuestro caso, de fuentes de Internet.
 <p align="center"><img src="https://verpent.co/images/jpg/IMG_2654.jpg"/> <br><br>Placa ESP32C3</p>
 
 Para construir este proyecto, necesitarás:
