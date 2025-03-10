@@ -10,7 +10,7 @@ author: Jorge Diaz
 
 # You can find an English translation in the following link:
 
-<p align=center>https://verpent.co/posts/esp32c3-iot-dev-getting-started</p>
+<p align=center># https://verpent.co/posts/esp32c3-iot-dev-getting-started</p>
 
 # Leave a ⭐ if you like the project:
 
