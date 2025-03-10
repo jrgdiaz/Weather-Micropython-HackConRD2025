@@ -8,7 +8,7 @@ author: Jorge Diaz
 
 # O sí quieres revisitar el badge pasado: https://github.com/jrgdiaz/HHW_HackConRD2024 , considera dejar una ⭐ ahi también.
 
-# You can find an English translation in the following link:
+# <p align=center>You can find an English translation in the following link.</p>
 
 # <p align=center>https://verpent.co/posts/esp32c3-iot-dev-getting-started</p>
 
