@@ -16,7 +16,7 @@ author: Jorge Diaz
 
 # <p align=center>https://verpent.co/posts/esp32c3-iot-dev-getting-started</p>
 
-# Leave a ⭐ if you like the project:
+# <p align=center>Leave a ⭐ if you like the project</p>
 
 # Programación de un mapa meteorológico LED con MicroPython en un ESP32C3
 
