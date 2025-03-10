@@ -1,8 +1,10 @@
-<p align=center>---
+<p align=center>
+---
 title: Programación de un mapa meteorológico LED con MicroPython en un ESP32C3
 date: Feb 28, 2025
 author: Jorge Diaz
----</p>
+---
+</p>
 
 # <p align=center> Si estas en HackConRD 2025, y te gustó este proyecto (o el <a href="http://104.131.81.97" style="align: center;"> CTF</a>) considera dejarme una ⭐ en este repositorio.</p>
 
