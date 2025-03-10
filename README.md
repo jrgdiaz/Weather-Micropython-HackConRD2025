@@ -48,7 +48,7 @@ Para construir este proyecto, necesitarás:
 
 Sin más demora, comencemos a implementar el proyecto.
 
-# Configuración del entorno de desarrollo y el firmware de MicroPython en el ESP32C3
+# Configuración del entorno de desarrollo
 
 Primero, instala rshell puedes conocer más sobre el proyecto aquí: https://pypi.org/project/rshell/
 
