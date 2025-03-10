@@ -200,7 +200,7 @@ async def main():
     "La Vega,do": 20,
     "Bonao,do": 21,
     "Cotui,do": 22,
-    "San Francisco de Macoris": 23}  # Add more
+    "San Francisco de Macoris": 23}
     API_KEY = "openweathermap-api-key"
     await update_weather(np, PROVINCE_TO_LED_MAP, API_KEY)
 
