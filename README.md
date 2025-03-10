@@ -6,7 +6,7 @@ author: Jorge Diaz
 
 # Si estas en HackConRD 2025, y te gustó este proyecto (o el <a href="http://104.131.81.97" style="align: center;"> CTF</a>) considera dejarme una ⭐ en este repositorio.
 
-# O sí quieres revisitar el badge pasado: https://github.com/jrgdiaz/HHW_HackConRD2024, considera dejar una ⭐ ahi también.
+# O sí quieres revisitar el badge pasado: https://github.com/jrgdiaz/HHW_HackConRD2024 , considera dejar una ⭐ ahi también.
 
 # Programación de un mapa meteorológico LED con MicroPython en un ESP32C3
 
