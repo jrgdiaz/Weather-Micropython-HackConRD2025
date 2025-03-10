@@ -50,11 +50,7 @@ Sin más demora, comencemos a implementar el proyecto.
 
 # Configuración del entorno de desarrollo y el firmware de MicroPython en el ESP32C3
 
-Primero, descarga e instala [esptool](https://github.com/espressif/esptool) con PIP:
-
-```python3 -m pip install esptool```
-
-Luego, instala rshell puedes conocer mas sobre el proyecto aquí: https://pypi.org/project/rshell/
+Primero, instala rshell puedes conocer más sobre el proyecto aquí: https://pypi.org/project/rshell/
 
 ```
 python3 -m pip install rshell
