@@ -58,7 +58,7 @@ Conecta tu badge con un cable USB-C e inicia una conexión serial:
 
 # Escribe el código que se ejecutará en el chip del microcontrolador
 
-## [Version completa del código](https://raw.githubusercontent.com/jrgdiaz/Weather-Micropython-HackConRD2025/refs/heads/main/main.py)
+## [Version completa del código](https://github.com/jrgdiaz/Weather-Micropython-HackConRD2025/blob/main/main.py)
 
 En tu editor de código favorito, comienza importando las librerias necesarias para ejecutar el proyecto:
 
