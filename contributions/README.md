@@ -1,4 +1,4 @@
-# 🚀 ¡Contribuye a HackConRD 2025!  
+# 🚀 ¡Contribuye al badge de HackConRD2025!  
 
 ¿Has creado algo increíble con el **badge** de **HackConRD 2025**? 🌟  
 
@@ -17,17 +17,17 @@ Yo revisaré cada propuesta, y si todo está en orden, ¡tu proyecto formará pa
 
 # 📁 Guía de Contribución a HackConRD 2025
 
-¡Gracias por contribuir a HackConRD 2025! Por favor, sigue estas simples pautas para que el proceso sea claro y organizado.
+¡Gracias por contribuir al badge de HackConRD 2025! Por favor, sigue estas simples pautas para que el proceso sea claro y organizado.
 
 ## 🚀 Cómo Contribuir
 
-1. **Haz un fork del repositorio** a tu cuenta de GitHub.
+1. **Haz un fork de este repositorio** (a tu cuenta de GitHub).
 2. **Clona tu fork** a tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/HackConRD2025.git
+   git clone https://github.com/tu-usuario/HackConRD2025Badge.git
    ```
-3. **Añade tu proyecto** dentro del directorio `contributions`:
-   - Crea una nueva carpeta con un nombre claro y único para tu proyecto.
+3. **Añade tu proyecto** dentro de este directorio llamado `contributions`:
+   - Crea un nuevo directorio con un nombre claro y único para tu proyecto.
    - Ejemplo: `contributions/mi-proyecto-genial`
 4. **Incluye un README.md** dentro de la carpeta de tu proyecto explicando:
    - Nombre del proyecto
