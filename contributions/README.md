@@ -11,6 +11,6 @@ Si deseas compartir tu proyecto con la comunidad, sigue estos simples pasos:
 
 Yo revisaré cada propuesta, y si todo está en orden, ¡tu proyecto formará parte del repositorio! 🔥  
 
-> 💡 **Tip:** No olvides incluir una breve descripción de tu proyecto y las instrucciones para probarlo.  
+> 💡 **Tip:** No olvides incluir una breve descripción de tu proyecto y las instrucciones para probarlo. Esto es solo por diversión cualquier idea es bienvenida.
 
 
