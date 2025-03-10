@@ -252,6 +252,7 @@ cp main.py /pyboard/main.py
 
 Finalmente, corremos nuestro código:
 
+Ingresa al interprete REPL y corre el ```main.py```:
 ```python
 repl
 import main
