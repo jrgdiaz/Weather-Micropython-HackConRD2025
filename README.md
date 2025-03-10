@@ -8,6 +8,12 @@ author: Jorge Diaz
 
 # O sí quieres revisitar el badge pasado: https://github.com/jrgdiaz/HHW_HackConRD2024 , considera dejar una ⭐ ahi también.
 
+# You can find an English translation in the following link:
+
+https://verpent.co/posts/esp32c3-iot-dev-getting-started
+
+# Leave a ⭐ if you like the project:
+
 # Programación de un mapa meteorológico LED con MicroPython en un ESP32C3
 
 # Resumen
@@ -255,9 +261,3 @@ Para representar las condiciones meteorológicas, estamos utilizando una matriz 
 - **Azul**: Lluvia intensa
 
 Esto proporciona una manera intuitiva de visualizar rápidamente los patrones climáticos en todo el país.
-
-You can find full code as well as English translation in the following link:
-
-Leave a ⭐ if you like the project:
-
-https://verpent.co/posts/esp32c3-iot-dev-getting-started
