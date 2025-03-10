@@ -6,7 +6,7 @@ author: Jorge Diaz
 
 # <p align=center> Si estas en HackConRD 2025, y te gusta este proyecto (o el <a href="http://104.131.81.97" style="align: center;"> CTF</a>) considera dejarme una ⭐</p>
 
-# <p align=center>O sí quieres revisitar el badge pasado: 
+# <p align=center>Sí quieres revisitar el badge pasado: 
 
 # <p align=center>https://github.com/jrgdiaz/HHW_HackConRD2024</p>
 
