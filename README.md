@@ -248,9 +248,11 @@ Para cargar y correr código en MicroPython utilizamos dos scripts boot.py y mai
 boot.py se ejecuta una vez MicroPython ha cargado en el board, ESTE NO DEBE SER modificado.
 
 ```
-✅ modificamos en main.py ✅
+✅ Modificamos en main.py ✅
 ```
-Cargamos nuestro código como main.py copiandolo al board.
+Cargamos nuestro código como main.py copiandolo al board. 
+
+Este correra cada vez que energicemos el board:
 
 ```bash
 cp main.py /pyboard/main.py
