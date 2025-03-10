@@ -65,7 +65,7 @@ Conecta tu badge con un cable USB-C e inicia una conexión serial:
 
 
 ```
-/Library/Frameworks/Python.framework/Versions/3.11/bin/rshell -p /dev/tty.usbmodem1431401 -b 115200
+/Library/Frameworks/Python.framework/Versions/3.11/bin/rshell -p <tu-puerto-serial> -b 115200
 ```
 
 # Escribe el código que se ejecutará en el chip del microcontrolador
@@ -236,7 +236,7 @@ Sustituir el key y las credenciales de Wi-Fi en el código. Y con eso, ya estamo
 Primero nos conectamos al board:
 
 ```bash
-/Library/Frameworks/Python.framework/Versions/3.11/bin/rshell -p /dev/tty.usbmodem1431401 -b 115200
+/Library/Frameworks/Python.framework/Versions/3.11/bin/rshell -p <tu-puerto-serial> -b 115200
 ```
 
 Para cargar y correr código en MicroPython utilizamos dos scripts boot.py y main.py
