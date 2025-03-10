@@ -68,6 +68,9 @@ Conecta tu badge con un cable USB-C e inicia una conexión serial:
 /Library/Frameworks/Python.framework/Versions/3.11/bin/rshell -p <tu-puerto-serial> -b 115200
 ```
 
+<p align="center">![Screenshot 2025-03-10 at 6 30 37 PM](https://github.com/user-attachments/assets/d0e7b427-f64f-414c-bce3-6b981e1e9c4d</p>
+
+
 # Escribe el código que se ejecutará en el chip del microcontrolador
 
 ## [Version completa del código](https://github.com/jrgdiaz/Weather-Micropython-HackConRD2025/blob/main/main.py)
