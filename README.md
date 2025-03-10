@@ -21,7 +21,7 @@ author: Jorge Diaz
 # Programación de un mapa meteorológico LED con MicroPython en un ESP32C3
 
 # Resumen
-En esta publicación, demostraremos cómo programar un bonito mapa del tiempo con LED utilizando un microcontrolador [ESP32C3](https://www.espressif.com/en/products/socs/esp32-c3) con [MicroPython](https://micropython.org) y datos de la [API de OpenWeatherMap](https://openweathermap.org/api).
+En esta publicación, demostraremos cómo programar un mapa del clima con LED utilizando un microcontrolador [ESP32C3](https://www.espressif.com/en/products/socs/esp32-c3) con [MicroPython](https://micropython.org) y datos de la [API de OpenWeatherMap](https://openweathermap.org/api).
 
 ![image](https://verpent.co/images/jpg/PHOTO-2025-02-01-01-24-57.jpg)
 
