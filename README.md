@@ -58,9 +58,9 @@ python3 -m pip install rshell
 
 Conecta tu badge con un cable USB-C e inicia una conexión serial:
 
-```
+
 ⚠️ El puerto serial puede aparecer con diferentes nombres dependiendo del sistema operativo en Windows, es COM4 por ejemplo.⚠️
-```
+
 
 ```
 /Library/Frameworks/Python.framework/Versions/3.11/bin/rshell -p /dev/tty.usbmodem1431401 -b 115200
