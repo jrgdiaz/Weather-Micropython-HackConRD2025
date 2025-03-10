@@ -12,7 +12,7 @@ author: Jorge Diaz
 
 # <p align=center>considera dejar una ⭐ ahi también.</p>
 
-# <p align=center>You can find an English translation in the following link.</p>
+# <p align=center>You can find an English translation in the following link:</p>
 
 # <p align=center>https://verpent.co/posts/esp32c3-iot-dev-getting-started</p>
 
