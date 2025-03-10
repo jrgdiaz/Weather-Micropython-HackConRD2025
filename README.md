@@ -81,7 +81,7 @@ from micropython import const
 
 Luego escribe una función que se conecte a un punto de acceso Wi-Fi:
 
-```
+```python
 def connect_wifi(ssid, password):
     connected = False
     try:
@@ -106,7 +106,7 @@ def connect_wifi(ssid, password):
 
 La parte principal del código es traducir los datos meteorológicos al color del LED en la placa, aquí está el código para eso:
 
-```
+```python
 def fetch_weather_for_city(city, api_key):
     BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
     url = f"{BASE_URL}?q={city}&appid={api_key}&units=metric"
@@ -165,7 +165,7 @@ def urlencode(string):
 
 Y finalmente, nuestra función principal de entrada main.py.
 
-```
+```python
 async def main():
     NUM_LEDS = 31
     LEDS_PIN = 2
@@ -228,7 +228,7 @@ Sustituir el key y las credenciales de Wi-Fi en el código. Y con eso, ya estamo
 
 Primero nos conectamos al board:
 
-```
+```bash
 /Library/Frameworks/Python.framework/Versions/3.11/bin/rshell -p /dev/tty.usbmodem1431401 -b 115200
 ```
 
@@ -245,13 +245,13 @@ boot.py se ejecuta una vez MicroPython ha cargado en el board, ESTE NO DEBE SER 
 ```
 Cargamos nuestro código como main.py copiandolo al board.
 
-```
+```bash
 cp main.py /pyboard/main.py
 ```
 
 Finalmente, corremos nuestro código:
 
-```
+```python
 repl
 import main
 ```
