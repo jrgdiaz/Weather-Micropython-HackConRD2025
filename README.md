@@ -68,7 +68,7 @@ Conecta tu badge con un cable USB-C e inicia una conexión serial:
 
 En tu editor de código favorito, comienza importando las librerias necesarias para ejecutar el proyecto:
 
-```
+```python
 import machine, neopixel
 from machine import Pin
 import asyncio
