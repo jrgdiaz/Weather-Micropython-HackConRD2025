@@ -50,7 +50,7 @@ Sin más demora, comencemos a implementar el proyecto.
 
 # Configuración del entorno de desarrollo
 
-Primero, instala rshell puedes conocer más sobre el proyecto aquí: https://pypi.org/project/rshell/
+Primero, instala `rshell` puedes conocer más sobre el proyecto aquí: https://pypi.org/project/rshell/
 
 ```
 python3 -m pip install rshell
