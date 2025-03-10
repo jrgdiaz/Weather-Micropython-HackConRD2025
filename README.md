@@ -220,7 +220,8 @@ asyncio.run(main())
   
 <p align=center><img width="693" alt="Screenshot 2025-03-10 at 1 14 21 PM" src="https://github.com/user-attachments/assets/4896c7c5-2d7a-4069-ac03-9a4d9bd89945" /></p>
 
-<p align=center><img width="640" alt="Screenshot 2025-03-10 at 1 05 38 PM" src="https://github.com/user-attachments/assets/b5132d7d-b1bc-40f5-91c5-5c2e7018ca61" /></p>
+
+<p align=center><img width="1101" alt="Screenshot 2025-03-10 at 1 19 46 PM" src="https://github.com/user-attachments/assets/c040692e-fb15-4980-bf62-a38b8df152b8" /></p>
 
 Sustituir el key y las credenciales de Wi-Fi en el código. Y con eso, ya estamos listos para proceder a cargar el código al board. Lo explicamos a continuación.
 
