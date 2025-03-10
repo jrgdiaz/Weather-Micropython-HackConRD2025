@@ -213,9 +213,12 @@ asyncio.run(main())
 
 # Pasos para obtener un API key de OpenWeatherMap API
 
-* Crear una cuenta 
+* Crear una cuenta en: https://home.openweathermap.org/users/sign_up
+  Y llenamos el siguiente formulario
 
-* Iniciar Sesión
+  <img width="640" alt="Screenshot 2025-03-10 at 1 05 38 PM" src="https://github.com/user-attachments/assets/b5132d7d-b1bc-40f5-91c5-5c2e7018ca61" />
+
+* Iniciar Sesión con la cuenta creada: 
 
 * Generar un API key nuevo
 
