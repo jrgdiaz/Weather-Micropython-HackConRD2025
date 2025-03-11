@@ -59,7 +59,7 @@ Piensa en como utilizar data para representar cosas sobre el mapa. Diferentes fo
 # O incluso herramientas de ciberseguridad.
 
 
-<p align=center><img width="500" height="600" src="https://github.com/user-attachments/assets/c5be37ad-1925-43d6-970d-2c8b64bfedf8"></p>
+<p align=center><img width="500" height="800" src="https://github.com/user-attachments/assets/c5be37ad-1925-43d6-970d-2c8b64bfedf8"></p>
 
 ---
 
