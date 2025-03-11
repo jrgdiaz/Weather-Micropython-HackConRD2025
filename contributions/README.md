@@ -5,7 +5,7 @@
 Si deseas compartir tu proyecto con la comunidad, sigue estos simples pasos:  
 
 1. **Haz un fork** del repositorio oficial.  
-2. **Añade tus contribuciones dentro del directorio 'contributions' debe estar en un sub directorio como mi_proyecto101/main.py por ejemplo..**:
+2. **Añade tus contribuciones dentro del directorio 'contributions' debe estar en un sub directorio como `contributions/mi_proyecto101/main.py` por ejemplo..**:
 3. Crea el código, documentación, o cualquier hack creativo que quieras compartir.  
 4. **Envía un pull request** con tus cambios.  
 
