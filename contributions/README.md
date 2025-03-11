@@ -15,7 +15,7 @@ Revisaré cada propuesta, y si todo está en orden, tu proyecto formará parte d
 
 > Esto es solo por diversión cualquier idea es bienvenida.
 
-# 📁 Guía de Contribución a HackConRD 2025
+# 📁 Guía de Contribución al Badge HackConRD 2025
 
 ¡Gracias por contribuir al badge de HackConRD 2025! Por favor, sigue estas simples pautas para que el proceso sea claro y organizado.
 
