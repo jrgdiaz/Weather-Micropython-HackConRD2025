@@ -29,7 +29,7 @@ En esta publicación, demostraremos cómo programar un mapa del clima con LED ut
 
 ![image](https://verpent.co/images/jpg/PHOTO-2025-02-01-01-24-57.jpg)
 
-<p align=center>Foto de <a href="https://www.instagram.com/fotosmalasperomias">Jini</a></p>
+<p align=center>Foto de <a href="https://www.instagram.com/fotosmalasperomias">FotosMalasPeroMias</a></p>
 
 <p align=center><a href="http://104.131.81.97" style="align: center;"> Servidor de CTF IoT de HackConRD 2025 Badge</a></p>
 
