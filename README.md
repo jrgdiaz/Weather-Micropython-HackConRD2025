@@ -8,7 +8,7 @@ author: Jorge Diaz
 
 # <p align=center>Sí quieres revisitar el badge pasado: 
 
-# <p align=center>https://github.com/jrgdiaz/HHW_HackConRD2024</p>
+# <p align=center><a href="https://github.com/jrgdiaz/HHW_HackConRD2024">HackConRD2024 Badge</a></p>
 
 # <p align=center>considera dejar una ⭐ ahi también.</p>
 
