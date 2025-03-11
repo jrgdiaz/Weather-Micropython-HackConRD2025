@@ -48,7 +48,7 @@ Para construir este proyecto, necesitarás:
 - ✅ Un microcontrolador ESP32C3
 -    Una conexión Wi-Fi
 - ✅ Firmware de MicroPython instalado en el ESP32C3
-- Una clave API de OpenWeatherMap (Te explico como conseguir mas abajo)
+- Una clave API de OpenWeatherMap (Te explico como conseguir una mas abajo)
 
 Sin más demora, comencemos a implementar el proyecto.
 
