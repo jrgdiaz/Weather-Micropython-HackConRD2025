@@ -181,7 +181,7 @@ def urlencode(string):
     return string.replace(" ", "%20").replace("á", "%C3%A1").replace("é", "%C3%A9").replace("í", "%C3%AD").replace("ó", "%C3%B3").replace("ú", "%C3%BA").replace("ñ", "%C3%B1").replace(",", "%2C")
 ```
 
-Y finalmente, nuestra función principal de entrada main.py.
+Y finalmente, nuestra función principal de entrada 'main.py'
 
 ```python
 async def main():
