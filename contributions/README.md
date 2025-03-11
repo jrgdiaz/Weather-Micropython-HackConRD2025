@@ -56,6 +56,10 @@ Este espacio es **solo por diversión**. No hay ideas pequeñas o locas — **cu
 
 Piensa en como utilizar data para representar cosas sobre el mapa. Diferentes formas de interactuar, Utilizando los botones por ejemplo.
 
-O incluso herramientas de ciberseguridad.
+# O incluso herramientas de ciberseguridad.
+
+
+<p align=center><img src="https://github.com/user-attachments/assets/c5be37ad-1925-43d6-970d-2c8b64bfedf8"></p>
+
 ---
 
