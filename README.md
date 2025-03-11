@@ -18,7 +18,7 @@ author: Jorge Diaz
 
 # <p align=center>You can find an English translation for this tutorial in the following link</p>
 
-# <p align=center>https://verpent.co/posts/esp32c3-iot-dev-getting-started</p>
+# <p align=center><a href="https://verpent.co/posts/esp32c3-iot-dev-getting-started">English Translation</a></p>
 
 # <p align=center>Leave a ⭐ if you like the project</p>
 
