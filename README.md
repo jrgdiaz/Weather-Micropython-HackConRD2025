@@ -251,20 +251,20 @@ Primero nos conectamos al board:
 /Library/Frameworks/Python.framework/Versions/3.11/bin/rshell -p <tu-puerto-serial> -b 115200
 ```
 
-Para cargar y correr código en MicroPython utilizamos dos scripts boot.py y main.py
+Para cargar y correr código en MicroPython utilizamos dos scripts `boot.py` y `main.py`
 
 ```
 ⚠️ No debes tocar el boot.py ⚠️
 
 ```
-boot.py se ejecuta una vez MicroPython ha cargado en el board, ESTE NO DEBE SER modificado.
+`boot.py` se ejecuta una vez MicroPython ha cargado en el board, ESTE NO DEBE SER modificado.
 
 ```
 ✅ Modificamos en main.py ✅
 ```
 Cargamos nuestro código como main.py copiandolo al board. 
 
-Este correra cada vez que energicemos el board:
+Este correrá cada vez que energicemos el board:
 
 ```bash
 cp main.py /pyboard/main.py
@@ -282,7 +282,7 @@ import main
 
 Para representar las condiciones meteorológicas, estamos utilizando una matriz de 31 LED aRGB, con cada LED correspondiente a una de las 31 provincias.  Los LED cambiarán de color según las condiciones meteorológicas:
 
-<p align="center"><img src="https://verpent.co/images/jpg/IMG_2638.jpg"/><br><br> Diseño de PCB por <a href=""> Emeraldo Ramos</a></p>
+<p align="center"><img src="https://verpent.co/images/jpg/"/><br><br> Diseño de PCB por <a href=""> Emeraldo Ramos</a></p>
   
 - **Rojo**: Temperaturas altas
 - **Amarillo**: Buen tiempo
