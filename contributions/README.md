@@ -50,8 +50,6 @@ Revisaré cada propuesta, y si todo está en orden, tu proyecto formará parte d
   
 - Si tu proyecto tiene dependencias, incluye los pasos de instalación en tu `README.md`.
 
-Revisaré todos los pull requests.
-
 ## 🎉 Solo por Diversión
 
 Este espacio es **solo por diversión**. No hay ideas pequeñas o locas — **cualquier idea es bienvenida**. ¡Atrévete a experimentar y crear algo único!
