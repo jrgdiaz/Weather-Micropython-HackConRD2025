@@ -45,10 +45,10 @@ El ESP32C3 es un microcontrolador potente y rentable con Wi-Fi y <a href="https:
 
 Para construir este proyecto, necesitarás:
 
-- Un microcontrolador ESP32C3
-- Una conexión Wi-Fi
-- Firmware de MicroPython instalado en el ESP32C3
-- Una clave API de OpenWeatherMap
+- ✅ Un microcontrolador ESP32C3
+-    Una conexión Wi-Fi
+- ✅ Firmware de MicroPython instalado en el ESP32C3
+- Una clave API de OpenWeatherMap (Te explico como conseguir mas abajo)
 
 Sin más demora, comencemos a implementar el proyecto.
 
