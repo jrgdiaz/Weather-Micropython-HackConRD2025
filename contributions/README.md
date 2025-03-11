@@ -13,7 +13,7 @@ Revisaré cada propuesta, y si todo está en orden, tu proyecto formará parte d
 
 > 💡 **Tip:** No olvides incluir una breve descripción de tu proyecto y las instrucciones para probarlo.
 
-> Esto es solo por diversión cualquier idea es bienvenida.
+> ✅ Esto es solo por diversión cualquier idea es bienvenida.
 
 # 📁 Guía de Contribución al Badge HackConRD 2025
 
