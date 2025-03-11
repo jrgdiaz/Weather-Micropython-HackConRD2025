@@ -262,7 +262,7 @@ Para cargar y correr código en MicroPython utilizamos dos scripts `boot.py` y `
 ```
 ✅ Modificamos en main.py ✅
 ```
-Cargamos nuestro código como main.py copiandolo al board. 
+Cargamos nuestro código como `main.py` copiandolo al board. 
 
 Este correrá cada vez que energicemos el board:
 
