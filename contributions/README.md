@@ -54,6 +54,6 @@ Revisaré cada propuesta, y si todo está en orden, tu proyecto formará parte d
 
 Este espacio es **solo por diversión**. No hay ideas pequeñas o locas — **cualquier idea es bienvenida**. ¡Atrévete a experimentar y crear algo único!
 
-Piensa en como utilizar data para representar cosas sobre el mapa. O diferentes formas de interactuar, Utilizando los botones por ejemplo..
+Piensa en como utilizar data para representar cosas sobre el mapa. O diferentes formas de interactuar, Utilizando los botones por ejemplo.
 ---
 
