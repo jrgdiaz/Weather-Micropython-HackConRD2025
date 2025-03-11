@@ -4,7 +4,7 @@ date: Feb 28, 2025
 author: Jorge Diaz
 ---
 
-# <p align=center> Si estas en HackConRD 2025, y te gusta este proyecto (o el <a href="http://104.131.81.97" style="align: center;"> CTF</a>) considera dejarme una ⭐</p>
+# <p align=center> Si estas en HackConRD 2025, y te gusta este proyecto (o el <a href="https://hackconrd2025-iot-ctf.verpent.co/" style="align: center;"> CTF</a>) considera dejarme una ⭐</p>
 
 # <p align=center>Sí quieres revisitar el badge pasado: 
 
@@ -31,12 +31,12 @@ En esta publicación, demostraremos cómo programar un mapa del clima con LED ut
 
 <p align=center>Foto de <a href="https://www.instagram.com/fotosmalasperomias">FotosMalasPeroMias</a></p>
 
-<p align=center><a href="http://104.131.81.97" style="align: center;"> Servidor de CTF IoT de HackConRD 2025 Badge</a></p>
+<p align=center><a href="https://hackconrd2025-iot-ctf.verpent.co/" style="align: center;"> Servidor de CTF IoT de HackConRD 2025 Badge</a></p>
 
 # Comenzando con el desarrollo de IoT y MicroPython 
 
 En este proyecto, mostraremos información meteorológica en el mapa de la RD🇩🇴. 
-Además, este proyecto servirá como el badge para [HackConRD 2025](https://hackconrd.org), donde organizaremos un [CTF](http://104.131.81.97/) enfocado en la ingeniería inversa de este dispositivo IoT temático.
+Además, este proyecto servirá como el badge para [HackConRD 2025](https://hackconrd.org), donde organizaremos un [CTF](https://hackconrd2025-iot-ctf.verpent.co/) enfocado en la ingeniería inversa de este dispositivo IoT temático.
 
 # Hardware y Software
 
