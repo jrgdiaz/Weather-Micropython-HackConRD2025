@@ -1,6 +1,6 @@
 # 🚀 ¡Contribuye al badge de HackConRD2025!  
 
-¿Has creado algo increíble con el **badge** de **HackConRD 2025**? 🌟  
+Haz creado algo increíble con el **badge** de **HackConRD 2025**? 🌟  
 
 Si deseas compartir tu proyecto con la comunidad, sigue estos simples pasos:  
 
@@ -52,7 +52,7 @@ Revisaré cada propuesta, y si todo está en orden, tu proyecto formará parte d
 
 ## 🎉 Solo por Diversión
 
-Este espacio es **solo por diversión**. No hay ideas pequeñas o locas — **cualquier idea es bienvenida**. ¡Atrévete a experimentar y crear algo único!
+Este espacio es **solo por diversión**. No hay ideas pequeñas o locas — **cualquier idea es bienvenida**.
 
 Piensa en como utilizar data para representar cosas sobre el mapa. Diferentes formas de interactuar, Utilizando los botones por ejemplo.
 
