@@ -1,6 +1,5 @@
 import machine, neopixel
 from machine import Pin
-import aioble
 import asyncio
 import struct
 import time
