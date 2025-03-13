@@ -24,7 +24,7 @@ Revisaré cada propuesta, y si todo está en orden, tu proyecto formará parte d
 1. **Haz un fork de este repositorio** (a tu cuenta de GitHub).
 2. **Clona tu fork** a tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/HackConRD2025Badge.git
+   git clone https://github.com/tu-usuario/mi-fork-de-HackConRD2025Badge.git
    ```
 3. **Añade tu proyecto** dentro de este directorio llamado `contributions`:
    - Crea un nuevo directorio con un nombre claro y único para tu proyecto.
