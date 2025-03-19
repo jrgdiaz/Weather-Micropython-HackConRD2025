@@ -46,7 +46,7 @@ Revisaré cada propuesta, y si todo está en orden, tu proyecto formará parte d
 
 ## 📚 Notas Adicionales
 
-- Recurso para aprender mas sobre como hacer tus primeras contribuciones - https://firstcontributions.github.io/
+- Recurso para aprender mas sobre como hacer tus primeras contribuciones - https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.es.md
 
 - Asegúrate de que tu código esté ubicado **únicamente** dentro del directorio `contributions`.
   
