@@ -46,6 +46,8 @@ Revisaré cada propuesta, y si todo está en orden, tu proyecto formará parte d
 
 ## 📚 Notas Adicionales
 
+- Recurso para aprender mas sobre como hacer tus primeras contribuciones - https://firstcontributions.github.io/
+
 - Asegúrate de que tu código esté ubicado **únicamente** dentro del directorio `contributions`.
   
 - Si tu proyecto tiene dependencias, incluye los pasos de instalación en tu `README.md`.
