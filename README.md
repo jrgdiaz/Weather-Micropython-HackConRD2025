@@ -4,7 +4,7 @@ date: Feb 28, 2025
 author: Jorge Diaz
 ---
 
-# <p align=center><a href="https://www.youtube.com/watch?v=xFd7h2AEaBs">HackConRD2025 Highlights Video</a></p>
+# <p align=center><a href="https://www.youtube.com/watch?v=xFd7h2AEaBs">Ver HackConRD2025 Highlights Video</a></p>
 
 # <p align=center> Si estas en HackConRD 2025, y te gusta este proyecto (o el <a href="https://hackconrd2025-iot-ctf.verpent.co/" style="align: center;"> CTF</a>) considera dejarme una ⭐</p>
 
